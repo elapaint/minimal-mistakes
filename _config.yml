@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Elapaint
 locale:           en_US
 url:              http://elapaint.github.io/minimal-mistakes
 
@@ -34,7 +34,7 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
+    plus: https://plus.google.com/u/0/100842767165094632458
     analytics: 
     verify: 
     ad-client: 
