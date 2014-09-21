@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: Elapaint
+title: All Posts
 excerpt: "A List of Posts"
 ---
